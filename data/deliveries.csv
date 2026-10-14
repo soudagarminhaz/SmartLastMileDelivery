@@ -1,0 +1,11 @@
+delivery_id,destination,weight,priority,deadline
+D001,A,4,8,60
+D002,B,2,5,45
+D003,C,6,10,90
+D004,D,3,7,75
+D005,E,5,9,80
+D006,F,2,6,50
+D007,G,7,10,120
+D008,H,4,4,100
+D009,I,3,8,70
+D010,J,6,9,110

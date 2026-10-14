@@ -1,0 +1,4 @@
+vehicle_id,capacity,start_location,vehicle_type
+V001,15,DEPOT,Van
+V002,12,DEPOT,Electric
+V003,20,DEPOT,Van
